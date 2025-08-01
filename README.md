@@ -41,4 +41,4 @@ cd TED-BOT-V4.2 && npm start
 npm start
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•★𝐓𝐄𝐃-𝐁𝐎𝐓-𝐕𝟒.𝟐★•╯"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•★𝐓𝐄𝐃-𝐁𝐎𝐓-𝐕𝟒.𝟐★•╯"> y
